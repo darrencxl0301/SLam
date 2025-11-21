@@ -205,8 +205,8 @@ python schema_action.py \
 | Task | Min VRAM | Recommended | Speed |
 |------|----------|-------------|-------|
 | **LoRA Training (4-bit)** | 6GB | 12GB | ~500 samples/hr |
-| **Inference** | 4GB | 6GB | ~2-5 tokens/sec |
-| **RAG Indexing** | 2GB RAM | 4GB RAM | ~1000 pairs/sec |
+| **Inference** | 5GB | 6GB | ~2-5 tokens/sec |
+| **RAG Indexing** | 2GB RAM | 4GB RAM | ~500 pairs/sec |
 
 ### Component 3: Schema-Action Query
 
